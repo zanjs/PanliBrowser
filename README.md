@@ -1,6 +1,8 @@
 
 ## Panli Browser
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/PanliBrowser.svg)](https://greenkeeper.io/)
+
 
 ```bash
 # Clone this repository
